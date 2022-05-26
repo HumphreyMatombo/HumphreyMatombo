@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HumphreyMatombo
+- 👋 Hi, I’m @HumphreyMatombo a student
 - 👀 I’m interested in Python, Java, Html and C#
 - 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on Python, Java
